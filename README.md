@@ -24,4 +24,5 @@ For each decoded number we subtract a growing quadratic offset:
 The intermediate text is shifted by -3 (Caesar cipher).
 
 ## Result
-Open Source y Chat — @whoissoeeA — gift
+OpenSourceyChat0whoissoeea0gift
+Open Source Chat — whoissoeeA — gift
